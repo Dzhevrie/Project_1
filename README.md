@@ -1,3 +1,3 @@
 # Project_1
-# Developing Website only with HTML and CSS
+# Turn Mock-ups Into a Web Page with HTML & CSS
 # https://dzhevrie.github.io/Project_1/
