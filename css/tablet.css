@@ -1,0 +1,106 @@
+@media all and (max-width: 992px) {
+    body {
+        padding: 0;
+        margin: 0;
+    }
+
+    /* Section Navigation */
+    nav {
+        padding: 20px 15px;
+    }
+
+    nav img {
+        width: 120px;
+    }
+
+    .info {
+        width: 80%;
+    }
+
+    /*Section Filter's buttons*/
+    .filter-title {
+        padding-top: 10px;
+    }
+
+    .filter-buttons {
+        display: contents;
+    }
+
+    /*main section*/
+    main {
+        width: auto;
+        padding: 5px;
+    }
+
+    /* Accommodation and Most polular sections wrap */
+    .sections-wrap {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        padding-top: 20px;
+    }
+
+    /*Section Accommodation*/
+    .accomm {
+        width: 100%;
+        height: auto;
+    }
+
+    .accomm-title {
+        width: 100%;
+        font-size: 25px;
+        padding: 30px 0 15px 30px;
+    }
+
+    .accomm-cards-wrap a {
+        text-decoration: none;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .accomm-cards-wrap img {
+        width: 245px;
+        height: 130px;
+        border-radius: 20px 20px 0px 0px;
+    }
+
+    .show-more {
+        width: 80%;
+    }
+
+    /*Most popular section*/
+
+    .popular {
+        width: 100%;
+        margin: 20px 0;
+    }
+
+    .popular-cards-wrap {
+        margin: 20px;
+    }
+
+    /*Section footer*/
+    .footer-container {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .footer-heading {
+        margin: 40px 0 0 30px;
+    }
+
+    .footer-heading h4 {
+        font-size: 23px;
+        color: black;
+        font-weight: 800;
+        margin-bottom: 15px;
+    }
+
+    .footer-heading a {
+        font-size: 20px;
+        font-weight: 600;
+    }
+
+}
